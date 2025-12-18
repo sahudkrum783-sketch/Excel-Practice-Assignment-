@@ -1,4 +1,4 @@
-# Excel-Practice-Assignment-
+# Excel-Practice-Assignment
 
 This repository contains an **Excel practice assignment** completed as part of my **Excel learning journey**.
 The purpose of this assignment is to practice important Excel functions, improve formula-writing skills, and strengthen data analysis concepts used in analytics roles.
