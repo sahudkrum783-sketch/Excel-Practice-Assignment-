@@ -68,3 +68,10 @@ This assignment helped me understand and apply:
 
 * **Second smallest revenue:**
   `=SMALL(B:B,2)`
+
+
+## Author 
+
+Anushka Sahu
+
+🔗 LinkedIn: https://www.linkedin.com/in/anushkasahu783/
